@@ -1,0 +1,44 @@
+header{
+  background-color: teal;
+  height: 100px;
+  padding: 20px;
+  padding-left: 100px;
+}
+h1{
+  margin: 0;
+}
+header div{
+  background-color: teal;
+}
+footer{
+   background-color: beige;
+}
+
+
+div{
+  background-color: antiquewhite ;
+  height:80px;
+  width: 90px;
+  display: inline-block;
+  
+  margin:  50px 70px 50px 60px;
+  padding-left: 10px; 
+
+}
+
+
+body{
+  background-color: azure
+}
+#secondP{
+  background-color: bisque
+}
+
+/* class : */
+
+#red{
+  background-color: rgba(255, 166, 0, 0.219)
+}
+.orange{
+  background-color: rgba(255, 166, 0, 0.219);
+}
