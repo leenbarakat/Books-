@@ -45,3 +45,11 @@ else{
   alert('Not available')
 }
 
+var rates = prompt("Please rate us out of 5")
+function rate(){
+  while(rates>5){
+    rates=prompt("Error, Please try again")
+  }
+  return rate;
+}
+rate();
